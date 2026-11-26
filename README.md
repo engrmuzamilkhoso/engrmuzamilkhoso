@@ -26,11 +26,14 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 </p>
 
 **Backend**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -59,6 +62,18 @@
 | [**audio-transcription-pipeline**](https://github.com/engrmuzamilkhoso/audio-transcription-pipeline) | Audio to PII-redacted, timestamped transcripts | Python · Whisper · FastAPI · Supabase |
 | [**saas-hrms-frontend**](https://github.com/engrmuzamilkhoso/saas-hrms-frontend) / [**backend**](https://github.com/engrmuzamilkhoso/saas-hrms-backend) | SaaS HRMS platform: separate frontend and backend API | TypeScript · PHP |
 | [**lounge-booking**](https://github.com/engrmuzamilkhoso/lounge-booking) | Booking platform: Next.js site + NestJS API | Next.js · NestJS · Prisma · Supabase |
+| [**react-native-majestic-app**](https://github.com/engrmuzamilkhoso/react-native-majestic-app) | Mobile app for the booking platform, consuming the NestJS API | React Native · Expo · TypeScript |
+
+---
+
+### 💼 Professional Work
+
+| Work | What I did | Stack |
+|---|---|---|
+| 🌐 [**Simpaisa website**](https://simpaisa.com) | Built the company website with technical SEO: server rendering, metadata & Open Graph, sitemaps, structured data, and Core Web Vitals performance | Next.js · React · TypeScript |
+| 🔄 **TMS data pipeline** | Python pipeline that migrates remittance data (daily exchange rates, sender & merchant accounts, customers) into a Transaction Management System, generates files and delivers them over SFTP | Python · PostgreSQL · SFTP |
+| 📱 **Mobile backend services** | REST APIs and services powering mobile apps: auth, bookings, payments, and admin integrations | Node.js · NestJS · Laravel |
+| 🏢 **Business platforms** | HRMS, ERP, CRM, finance, and e-commerce systems with admin panels and payment-gateway integrations | Laravel · React · PostgreSQL |
 
 ---
 
