@@ -73,7 +73,8 @@
 | 🌐 [**Simpaisa website**](https://simpaisa.com) | Built the company website with technical SEO: server rendering, metadata & Open Graph, sitemaps, structured data, and Core Web Vitals performance | Next.js · React · TypeScript |
 | 🔄 **TMS data pipeline** | Python pipeline that migrates remittance data (daily exchange rates, sender & merchant accounts, customers) into a Transaction Management System, generates files and delivers them over SFTP | Python · PostgreSQL · SFTP |
 | 📱 **Mobile backend services** | REST APIs and services powering mobile apps: auth, bookings, payments, and admin integrations | Node.js · NestJS · Laravel |
-| 🏢 **Business platforms** | HRMS, ERP, CRM, finance, and e-commerce systems with admin panels and payment-gateway integrations | Laravel · React · PostgreSQL |
+| 🤝 **CRM tools** | Customer relationship management tools: lead and customer tracking, sales pipelines, follow-ups, and reporting dashboards | Laravel · React · PostgreSQL |
+| 🏢 **Business platforms** | HRMS, ERP, finance, and e-commerce systems with admin panels and payment-gateway integrations | Laravel · React · PostgreSQL |
 
 ---
 
