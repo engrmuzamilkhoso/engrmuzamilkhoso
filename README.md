@@ -55,10 +55,10 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**rag-langchain-gemini**](https://github.com/engrmuzamilkhoso/rag-langchain-gemini) | Retrieval-augmented Q&A over your own documents | TypeScript · LangChain · Gemini |
-| [**rag-langchain-ai-agent**](https://github.com/engrmuzamilkhoso/rag-langchain-ai-agent) | AI agent with RAG-powered tool use | TypeScript · LangChain |
-| [**audio-transcription-pipeline**](https://github.com/engrmuzamilkhoso/audio-transcription-pipeline) | Speech-to-text pipeline with storage and processing stages | Python · Supabase · Docker |
-| [**saas-hrms-frontend**](https://github.com/engrmuzamilkhoso/saas-hrms-frontend) / [**backend**](https://github.com/engrmuzamilkhoso/saas-hrms-backend) | Multi-tenant SaaS HRMS: employees, attendance, payroll | TypeScript · PHP · Laravel |
-| [**lounge-booking**](https://github.com/engrmuzamilkhoso/lounge-booking) | Reservation and booking system | TypeScript |
+| [**rag-langchain-ai-agent**](https://github.com/engrmuzamilkhoso/rag-langchain-ai-agent) | Payment-support assistant: RAG over policy docs + OTP-verified agent | LangChain.js · pgvector · Ollama |
+| [**audio-transcription-pipeline**](https://github.com/engrmuzamilkhoso/audio-transcription-pipeline) | Audio to PII-redacted, timestamped transcripts | Python · Whisper · FastAPI · Supabase |
+| [**saas-hrms-frontend**](https://github.com/engrmuzamilkhoso/saas-hrms-frontend) / [**backend**](https://github.com/engrmuzamilkhoso/saas-hrms-backend) | SaaS HRMS platform: separate frontend and backend API | TypeScript · PHP |
+| [**lounge-booking**](https://github.com/engrmuzamilkhoso/lounge-booking) | Booking platform: Next.js site + NestJS API | Next.js · NestJS · Prisma · Supabase |
 
 ---
 
